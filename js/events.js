@@ -15,5 +15,5 @@ function frameIt() {
   })
 }
 function pressIt() {
-  ${}
+  $('input')
 }
